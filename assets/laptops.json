@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "Laptop 1",
+        "company": "hp",
+        "price": "230$"
+    },
+    {
+        "id": "2",
+        "name": "Laptop 2",
+        "company": "dell",
+        "price": "495$"
+    },
+    {
+        "id": "3",
+        "name": "Laptop 3",
+        "company": "apple",
+        "price": "976$"
+    },
+    {
+        "id": "4",
+        "name": "Laptop 4",
+        "company": "lenovo",
+        "price": "203$"
+    },
+    {
+        "id": "5",
+        "name": "Laptop 5",
+        "company": "samsung",
+        "price": "670$"
+    }
+]
